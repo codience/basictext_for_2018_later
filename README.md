@@ -1,4 +1,6 @@
-![](/Users/umemiya/Desktop/basictext_for_2018_later/src/for_readme/logo.png)
+![](./src/for_readme/logo.png)
+
+
 
 # basicテキスト（kari）
 
